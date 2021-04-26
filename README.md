@@ -1,3 +1,3 @@
 # Boiler Plate
 
-Boiler plate for future projects on ReactJS
+Boiler plate for future front-end projects on ReactJS
